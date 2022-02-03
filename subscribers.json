@@ -1,0 +1,25 @@
+{
+    "subscribers": [
+    {   
+        "name":"Cristian",
+        "email":"cristian@test.com"
+    },
+    {   
+        "name":"Alejandro",
+        "email":"alejandro@test.com"
+    },
+    {   
+        "name":"Sol",
+        "email":"sol@test.com"
+    },
+    {   
+        "name":"Chimu",
+        "email":"chimu@test.com"
+    },
+    {   
+        "name":"Cookie",
+        "email":"cookie@test.com"
+    }
+    ]
+
+}
